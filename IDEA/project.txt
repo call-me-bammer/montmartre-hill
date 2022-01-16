@@ -1,0 +1,11 @@
+[ ] make discord bot in python, C
+    - simple chat-bot
+    - music/rhythm bot
+    - game bot (ex. even/odd betting, vitual stock)
+[ ] make slact bot
+
+# ref
+https://m.blog.naver.com/6116949/221901926848
+
+https://wooiljeong.github.io/python/slack-bot/
+
