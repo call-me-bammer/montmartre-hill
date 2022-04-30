@@ -4,6 +4,11 @@
 
 @jhcse5189 가 오늘의 PS를 기반으로 몽마르트 언덕에 잔디를 심습니다!
 
-### 그래서 님 티어가?
+### 그님티?
 
 [> 티어 확인하고 놀리러 가기](https://solved.ac/profile/jhcse5189)
+
+### Goals
+
+- [ ] Solved.ac Tier Gold 3 (~ 22.05.15)
+- [ ] Baekjoon 500 solved (~ 22.05.31)
