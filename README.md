@@ -10,5 +10,5 @@
 
 ### Goals
 
-- [ ] Solved.ac Tier Gold 3 (~ 22.05.15)
+- [X] Solved.ac Tier Gold 3 (~ 22.05.15) `Achieved on 220514`
 - [ ] Baekjoon 500 solved (~ 22.05.31)
