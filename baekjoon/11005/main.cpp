@@ -15,10 +15,6 @@ int main() {
     p++;
   p--;
 
-  if (p < 0) {
-    cout << n;
-  }
-
   while (p >= 0) {
     ll c = n / powerOfInt(b, p);
     n = n % powerOfInt(b, p);
