@@ -1,5 +1,8 @@
 # Binaries for program
 *.out
 
+## for windows
+*.exe
+
 # memo
 *.txt
