@@ -6,3 +6,6 @@
 
 # memo
 *.txt
+
+# practice directory
+/practice
