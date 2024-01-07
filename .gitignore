@@ -9,3 +9,6 @@
 
 # practice directory
 /practice
+
+# go modules
+*.mod
