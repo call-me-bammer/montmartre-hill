@@ -13,3 +13,8 @@ main
 
 # go modules
 *.mod
+
+# related to cph vscode extension
+.cph/
+/*.cpp
+/*.bin
