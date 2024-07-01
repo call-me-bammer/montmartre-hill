@@ -1,5 +1,6 @@
 # Binaries for program
 *.out
+main
 
 ## for windows
 *.exe
