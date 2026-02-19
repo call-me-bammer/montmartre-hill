@@ -2,7 +2,7 @@
 
 ![montmartre-hill-en parisinfo com](https://user-images.githubusercontent.com/38589666/163919802-fd6b5f72-11e7-48c5-b745-b892ff96ab77.jpg)
 
-@jhcse5189 가 오늘의 PS를 기반으로 몽마르트 언덕에 잔디를 심습니다!
+@call-me-bammer가 오늘의 PS를 기반으로 몽마르트 언덕에 잔디를 심습니다!
 
 ### 그님티?
 
@@ -12,4 +12,4 @@
 
 - [X] Solved.ac Tier Gold 3 (~ 22.05.15) `Achieved on 220514`
 - [X] Baekjoon 500 solved (~ 22.05.31) `Achieved on 220529`
-- [ ] Solved.ac Tire Gold 2 (~ 22.07.15)
+- [X] Solved.ac Tire Gold 2 (~ 22.07.15) `Achieved on 240114`
